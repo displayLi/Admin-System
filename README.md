@@ -21,8 +21,12 @@ npm run build
 # 切换到locals目录
 $ cd locals 
 
+# 安装json-server
+$ npm install -g json-server 全局安装
+$ npm install json-server 局部安装
+
 # 运行json-server
-$ npm run json:server
+$ json-server --watch db.json 或者 npm run json:server
 
 json-server 启动命令可自行配置 /locals/package.json
 scripts属性 里面自行配置
