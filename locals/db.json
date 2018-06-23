@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "二人退热贴",
+      "phone": "2342134123",
+      "email": "42314213",
+      "education": "4231423",
+      "school": "41324231",
+      "occ": "42314231",
+      "people": "41234213",
+      "id": 1
+    },
+    {
+      "name": "热熔弯头",
+      "phone": "gddfgdfsg",
+      "email": "gdfgdf",
+      "education": "gdfg",
+      "school": "dfgdfsg",
+      "occ": "dfgdfsg",
+      "people": "dfgdsfg",
+      "id": 2
+    }
+  ],
+  "company": [
+    {
+      "name": "Enjor",
+      "phone": "400-689-4409",
+      "add": "北京市东城区王府井大街74号",
+      "id": 1
+    }
+  ]
+}
